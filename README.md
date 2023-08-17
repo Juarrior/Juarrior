@@ -13,15 +13,14 @@
 
 <picture> <img></picture>
 
-<br>
+
 
 - A lovely Full Stack Developer and UX/UI Designer
 - Currently working and learning Web Development on Imagina Formación
 - Personal website incomming
 - You can check my CV here! [My resume](https://www.linkedin.com/in/juan-reig-pallard%C3%B3-261741220/)
 
-<br><br>
-
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <b> Skills</b>
