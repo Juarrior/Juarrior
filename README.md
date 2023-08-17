@@ -1,8 +1,9 @@
 
 <h1 ><b>Hi , I'm Juan! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
+<p align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDc2dmsya2JmY2J6Mzl2NHozOG5pbWRyZThvdjQwNDltNDBzbTlyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6Nk9AFUDuPHgXp31xT/giphy.gif" width="150">
+</p>
 
 <br>
 
