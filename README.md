@@ -11,13 +11,13 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://giphy.com/stickers/aka-akamanah-akamanahmi-C411Jbyw4sCKSKRuFG" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
-- A lovely Fullstack developer
+- A lovely Fullstack Developer and UX/UI Designer
 - Currently working and learning Web Development on Imagina Formación
 - Personal website
 - You can check my CV here! [my resume]([https://read.cv/0xabdulkhalid](https://www.linkedin.com/in/juan-reig-pallard%C3%B3-261741220/))
