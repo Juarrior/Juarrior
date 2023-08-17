@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://www.figma.com/proto/N9mBt3lBpqdugpgGOgcRfH/Portfolio-Juan-Reig?page-id=0%3A1&node-id=1-5931&viewport=669%2C522%2C0.03&scaling=min-zoom&starting-point-node-id=1%3A5931](https://www.figma.com/proto/N9mBt3lBpqdugpgGOgcRfH/Portfolio-Juan-Reig?page-id=0%3A1&node-id=1-5931&viewport=669%2C522%2C0.03&scaling=min-zoom&starting-point-node-id=1%3A5931)
-
 - 📫 How to reach me **juanreig197@gmail.com**
 
 - ⚡ Fun fact **I love nature, music and videogames!**
