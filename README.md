@@ -17,7 +17,7 @@
 
 
 - A lovely Full Stack Developer and UX/UI Designer
-- Currently working and learning Web Development on Imagina Formación
+- Currently working as a Front End Developer on Imagina Formación
 - Personal website incomming
 - You can check my CV here! [My resume](https://www.linkedin.com/in/juan-reig-pallard%C3%B3-261741220/)
 
